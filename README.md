@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello, I'm Rohit  <br><br>🎓 Computer Engineering student  at PICT<br>💡 Passionate about Full Stack Development (MERN)<br>🛠 Tech Stack: Java | JavaScript | React | Node.js | MongoDB  <br>📚 Currently focused on DSA and backend concepts .<br><br>✨ Always curious, always learning, always building.<br>
+#  About Me:
+ Hello, I'm Rohit  <br><br> Computer Engineering student  at PICT<br> Passionate about Full Stack Development (MERN)<br>🛠 Tech Stack: Java | JavaScript | React | Node.js | MongoDB  <br> Currently focused on DSA and backend concepts .<br><br> Always curious, always learning, always building.<br>
 
 
 # 💻 Tech Stack:
